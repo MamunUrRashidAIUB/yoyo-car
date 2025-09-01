@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "echo \"No tests yet\""
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.12",
