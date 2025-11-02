@@ -1,0 +1,48 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Airport Pickup/Drop",
+      "description": "Convenient airport transfer service",
+      "icon": "✈️",
+      "price": "From $15"
+    },
+    {
+      "id": 2,
+      "title": "24/7 Roadside Assistance",
+      "description": "Emergency support whenever you need",
+      "icon": "🛠️",
+      "price": "Free"
+    },
+    {
+      "id": 3,
+      "title": "GPS Navigation",
+      "description": "Never get lost with our GPS system",
+      "icon": "🗺️",
+      "price": "Free"
+    },
+    {
+      "id": 4,
+      "title": "Insurance Coverage",
+      "description": "Full comprehensive insurance included",
+      "icon": "🛡️",
+      "price": "From $5/day"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "city": "New York",
+      "address": "123 Manhattan Ave, NY 10001",
+      "phone": "+1 (555) 123-4567",
+      "hours": "24/7"
+    },
+    {
+      "id": 2,
+      "city": "Los Angeles", 
+      "address": "456 Hollywood Blvd, CA 90028",
+      "phone": "+1 (555) 987-6543",
+      "hours": "6:00 AM - 11:00 PM"
+    }
+  ]
+}
