@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Toyota Supra",
+    "description": "A sleek, high-performance sports car known for its powerful turbocharged engine and precise handling.",
+    "person_capacity": 2,
+    "car_type": "Sports",
+    "fuel_type": "Gasoline",
+    "steering_type": "Power Steering"
+  },
+  {
+    "name": "Honda Civic",
+    "description": "Reliable compact sedan offering great fuel efficiency and comfort for everyday driving.",
+    "person_capacity": 5,
+    "car_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "steering_type": "Electric Power Steering"
+  },
+  {
+    "name": "Ford Mustang GT",
+    "description": "Iconic American muscle car delivering raw power and an aggressive design.",
+    "person_capacity": 4,
+    "car_type": "Coupe",
+    "fuel_type": "Gasoline",
+    "steering_type": "Hydraulic Power Steering"
+  },
+  {
+    "name": "Mazda CX-5",
+    "description": "Stylish crossover SUV with a smooth drive, comfortable interior, and impressive fuel economy.",
+    "person_capacity": 5,
+    "car_type": "SUV",
+    "fuel_type": "Gasoline",
+    "steering_type": "Electric Power Steering"
+  },
+  {
+    "name": "Nissan GT-R",
+    "description": "High-performance supercar combining advanced technology and incredible speed.",
+    "person_capacity": 2,
+    "car_type": "Supercar",
+    "fuel_type": "Gasoline",
+    "steering_type": "Rack and Pinion"
+  }
+]
